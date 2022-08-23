@@ -11,4 +11,8 @@ Here, we have a dataset with the average of Biomass and Dry matter obtained thro
 months 1, 2, and 3 of the years 2018 and 2019. In total, 12 paddocks of 0.5 ha had soil samples collected and analyzed via laboratory. 
 Sentinel-2 satellite reflectance data were collected from six bands (NIR, Red, Red_Edge, SWIR1, Green, and Blue). With the magnitudes of surface reflectances, 
 25 vegetation indices were calculated and can serve as independent variables. In addition, climatic data such as temperature and humidity were also entered in this 
-dataset. Each paddock had from 1 to 4 animals and this variable has been studied and proved to be an important factor of effect on the target variables
+dataset. Each paddock had from 1 to 4 animals and this variable has been studied and proved to be an important factor of effect on the target variables. All vegetation indices used, their equations and, references can be verified in the table below.
+
+
+![tableinGit](https://user-images.githubusercontent.com/72608354/186172514-2aa19bb1-22ac-4723-9977-53a5ed318ea5.jpg)
+![References - Git](https://user-images.githubusercontent.com/72608354/186177990-7b8d8ab4-ffa6-4468-9499-8b9910437c5c.png)
